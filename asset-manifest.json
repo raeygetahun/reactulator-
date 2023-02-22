@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactulator-/static/css/main.e418bcb2.css",
+    "main.js": "/reactulator-/static/js/main.dbef53a8.js",
+    "static/js/787.0edbcda9.chunk.js": "/reactulator-/static/js/787.0edbcda9.chunk.js",
+    "index.html": "/reactulator-/index.html",
+    "main.e418bcb2.css.map": "/reactulator-/static/css/main.e418bcb2.css.map",
+    "main.dbef53a8.js.map": "/reactulator-/static/js/main.dbef53a8.js.map",
+    "787.0edbcda9.chunk.js.map": "/reactulator-/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e418bcb2.css",
+    "static/js/main.dbef53a8.js"
+  ]
+}
